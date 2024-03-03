@@ -1,2 +1,1 @@
-# jen-allien-apps
 Authentication Tool for Authenticating Users, HWIDs and Licenses to keep your Code secure from malicious activities.
